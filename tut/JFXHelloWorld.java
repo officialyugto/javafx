@@ -8,7 +8,9 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author 
+ * @author  Zef
+ * @github  officialzef
+ * @youtube officialzef
  */
 public class JFXHelloWorld extends Application {
     
